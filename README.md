@@ -1,5 +1,4 @@
-# Data-Analytics-Coffee-Shop-Sales-Dashboard
-# ☕ Coffee Shop Sales Dashboard (Excel)
+# ☕ Coffee Shop Sales Dashboard 
 
 ## 📊 Project Overview
 
