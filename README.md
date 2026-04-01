@@ -62,17 +62,3 @@ This project presents an interactive sales dashboard built using Microsoft Excel
 * Learned how to design interactive dashboards using Excel
 * Improved understanding of business metrics such as revenue, profit, and growth
 * Gained experience in data storytelling and visualization
-
----
-
-## 🔮 Future Improvements
-
-* Automate data cleaning using Power Query
-* Build a more advanced version using Power BI
-* Add deeper analysis such as customer segmentation or forecasting
-
----
-
-## 📌 Author
-
-**Sharmistha Sarkar**
