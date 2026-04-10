@@ -41,7 +41,7 @@ This project presents an interactive sales dashboard built using Microsoft Excel
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/Coffee Shop Sales.png)
 
 ---
 
